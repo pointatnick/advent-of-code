@@ -1,5 +1,6 @@
-defmodule ParserTest do
+defmodule Day8Test do
   use ExUnit.Case
+  alias Day8.Parser, as: Parser
   doctest Parser
 
   # Part 1
